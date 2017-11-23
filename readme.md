@@ -2,7 +2,7 @@
 	<br>
 	<img width="600px" src="https://raw.githubusercontent.com/CodeDotJS/freecodecamp-podcast-dl/master/media/text4268.png">
 	<br>
-	<img src="https://travis-ci.org/CodeDotJS/freecodecamp-podcast-dl.svg?branch=master"> <img width="50" src="https://github.com/CodeDotJS/freecodecamp-podcast-dl/blob/master/media/freecodecamp.svg">  <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
+	<img src="https://travis-ci.org/CodeDotJS/freecodecamp-podcast-dl.svg?branch=master"> <img width="50" src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/85127c8509f304717112fc156febec6481ad286c/github/freecodecamp.png">  <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
 	<br>
 </h1>
 
