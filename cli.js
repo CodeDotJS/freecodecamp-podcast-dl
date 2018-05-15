@@ -49,6 +49,7 @@ const checkConnection = () => {
 			rep();
 			spinner.text = ` ${chalk.blue('🚀')}  Getting ready ${yellow('🌟')} `;
 			spinner.start();
+			makeSureDir(dir);
 		}
 	});
 };
@@ -146,6 +147,8 @@ if (arg === '-d' || arg === '--download') {
 
 		http.get(link, (res, cb) => {
 			res.pipe(save);
+
+			makeSureDir(`${dir}${title}`);
 
 			save.on('finish', () => {
 				rep(`\n ${yellow('⚡')}${cyan('⚡')}  Podcast Saved! \n`);
