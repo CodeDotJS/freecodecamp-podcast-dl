@@ -10,7 +10,7 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "xo && ava"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
