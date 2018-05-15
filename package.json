@@ -44,7 +44,7 @@
     "xo": "^0.16.0"
   },
   "xo": {
-    "esnext": true
+    "esnext": false
   },
   "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.ml)",
   "license": "MIT",
